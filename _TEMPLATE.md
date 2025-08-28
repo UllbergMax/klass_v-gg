@@ -1,7 +1,7 @@
-# [Github konto namn]
+# [UllbergMax]
 
-**Min favorit teknologi:** (t.ex. ett programmeringsspråk, sak, pryl eller uppfinning)
+**Min favorit teknologi:** Artificiell Intelligens
 
-**Mitt mål med kursen:** (t.ex. att lära mig Linux, se en robot)
+**Mitt mål med kursen:** Lära mig programmera
 
-**En rolig fakt:** (t.ex. Jag läste rubriks kub en gång eller den där gång jag återföddes som en slime)
+**En rolig fakt:** Jag kör till skolan
